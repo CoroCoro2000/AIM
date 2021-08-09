@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{c88606ec-d9d8-4675-b1e6-4c8270f05784}">
+		<property name="name">
+			<value>ENGINEMUTE</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{616a562f-8b3c-4451-95f3-16b91d61b828}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{616a562f-8b3c-4451-95f3-16b91d61b828}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

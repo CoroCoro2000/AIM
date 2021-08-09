@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{813dae53-0df2-46c1-8b41-790d2ac5ff0e}">
+		<property name="name">
+			<value>MISSGEAR</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4a026dd8-5a5d-4195-87ea-c05c887668ff}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4a026dd8-5a5d-4195-87ea-c05c887668ff}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{d518d64a-43e0-438c-b30c-d1a438c09dec}">
+		<property name="name">
+			<value>TMSINE</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a891c296-b70e-4941-acd0-668ca3b7c67e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a891c296-b70e-4941-acd0-668ca3b7c67e}">
+		<property name="minimum">
+			<value>-100</value>
+		</property>
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

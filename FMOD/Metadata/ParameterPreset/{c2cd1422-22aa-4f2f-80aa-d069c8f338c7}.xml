@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{c2cd1422-22aa-4f2f-80aa-d069c8f338c7}">
+		<property name="name">
+			<value>TMPITCH</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{50f0c208-3c47-476e-800c-68efaaa3737f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{50f0c208-3c47-476e-800c-68efaaa3737f}">
+		<property name="minimum">
+			<value>-100</value>
+		</property>
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

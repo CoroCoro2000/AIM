@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{daf6e649-9a74-49fe-bc8f-a62b66a7e3b4}">
+		<property name="name">
+			<value>VoiceNum</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3853f3b3-16fc-4d6d-a777-a5d34a8ca93d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3853f3b3-16fc-4d6d-a777-a5d34a8ca93d}">
+		<property name="maximum">
+			<value>10</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

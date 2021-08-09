@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{f139dbb1-0576-4147-98ec-2736eb742b49}">
+		<property name="name">
+			<value>BRAKENOIZ</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a1000a2a-61af-46db-bbdb-20a21ae1076c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a1000a2a-61af-46db-bbdb-20a21ae1076c}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

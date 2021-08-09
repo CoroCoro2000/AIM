@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{dce3c5b5-574f-4bdd-888b-7cb41f975fd1}">
+		<property name="name">
+			<value>BURNOUT</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fdef46b2-20a7-424f-ac81-b9f2fa71c4cd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fdef46b2-20a7-424f-ac81-b9f2fa71c4cd}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

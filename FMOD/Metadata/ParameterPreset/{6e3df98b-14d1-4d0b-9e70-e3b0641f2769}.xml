@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{6e3df98b-14d1-4d0b-9e70-e3b0641f2769}">
+		<property name="name">
+			<value>AfterFire</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a487453a-a6e1-4900-9af3-69b59daa3fd1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a487453a-a6e1-4900-9af3-69b59daa3fd1}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

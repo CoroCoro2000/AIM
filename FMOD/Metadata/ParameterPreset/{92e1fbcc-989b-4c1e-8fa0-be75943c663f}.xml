@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{92e1fbcc-989b-4c1e-8fa0-be75943c663f}">
+		<property name="name">
+			<value>RUBVOL</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{318d063f-3340-4af0-994c-91e0fbe5fcdd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{318d063f-3340-4af0-994c-91e0fbe5fcdd}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

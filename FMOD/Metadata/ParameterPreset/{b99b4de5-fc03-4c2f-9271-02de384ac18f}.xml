@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{b99b4de5-fc03-4c2f-9271-02de384ac18f}">
+		<property name="name">
+			<value>Klaxon</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{11b8a7be-ef75-4954-91ee-c877170dcb3c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{11b8a7be-ef75-4954-91ee-c877170dcb3c}">
+		<property name="maximum">
+			<value>11</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

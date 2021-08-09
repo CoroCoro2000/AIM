@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{e0d43b7e-b6fc-4c1f-a39f-a64271befafa}">
+		<property name="name">
+			<value>DEBUGMUTE</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{61a08ad3-f251-46af-b2d5-bc61fb0e172d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{61a08ad3-f251-46af-b2d5-bc61fb0e172d}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

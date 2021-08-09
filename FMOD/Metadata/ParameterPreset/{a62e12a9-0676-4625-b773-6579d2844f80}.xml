@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{a62e12a9-0676-4625-b773-6579d2844f80}">
+		<property name="name">
+			<value>CRASHVOL</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2c244cec-6207-4a8f-a38e-4906f8dbca82}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2c244cec-6207-4a8f-a38e-4906f8dbca82}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

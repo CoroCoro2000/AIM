@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{79aa2a01-c0e4-4525-955d-f6a088feae3b}">
+		<property name="name">
+			<value>Handle</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ff279c92-f5e8-4adc-b674-77927eb6f501}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ff279c92-f5e8-4adc-b674-77927eb6f501}">
+		<property name="minimum">
+			<value>-1</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{7fa86d91-1fb5-46c6-87fe-b8a629dde5d3}</destination>
+		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{7fa86d91-1fb5-46c6-87fe-b8a629dde5d3}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{10bb573b-3a5e-407a-b4ec-c53c16b5ef13}">
+		<property name="name">
+			<value>ACCEL</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7db6da7d-8187-4e91-aec5-d267b84ef704}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{dd5bde9b-73e0-4ffa-ac49-87df34f7a51e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{dd5bde9b-73e0-4ffa-ac49-87df34f7a51e}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
