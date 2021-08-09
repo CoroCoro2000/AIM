@@ -1,0 +1,62 @@
+fileFormatVersion: 2
+guid: 8b6f86e1523e69a4282e92d393be89a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultDiffuseMaterial: {instanceID: 0}
+  - defaultMirrorMaterial: {instanceID: 0}
+  - defaultDecalMaterial: {instanceID: 0}
+  - defaultShader: {instanceID: 0}
+  - debugFontTexture: {instanceID: 0}
+  - debugDisplayLatlongShader: {instanceID: 0}
+  - debugViewMaterialGBufferShader: {instanceID: 0}
+  - debugViewTilesShader: {instanceID: 0}
+  - debugFullScreenShader: {instanceID: 0}
+  - debugColorPickerShader: {instanceID: 0}
+  - deferredShader: {instanceID: 0}
+  - colorPyramidCS: {instanceID: 0}
+  - depthPyramidCS: {instanceID: 0}
+  - copyChannelCS: {instanceID: 0}
+  - texturePaddingCS: {instanceID: 0}
+  - applyDistortionCS: {instanceID: 0}
+  - clearDispatchIndirectShader: {instanceID: 0}
+  - buildDispatchIndirectShader: {instanceID: 0}
+  - buildScreenAABBShader: {instanceID: 0}
+  - buildPerTileLightListShader: {instanceID: 0}
+  - buildPerBigTileLightListShader: {instanceID: 0}
+  - buildPerVoxelLightListShader: {instanceID: 0}
+  - buildMaterialFlagsShader: {instanceID: 0}
+  - deferredComputeShader: {instanceID: 0}
+  - screenSpaceShadowComputeShader: {instanceID: 0}
+  - volumeVoxelizationCS: {instanceID: 0}
+  - volumetricLightingCS: {instanceID: 0}
+  - subsurfaceScatteringCS: {instanceID: 0}
+  - subsurfaceScattering: {instanceID: 0}
+  - combineLighting: {instanceID: 0}
+  - cameraMotionVectors: {instanceID: 0}
+  - copyStencilBuffer: {instanceID: 0}
+  - copyDepthBuffer: {instanceID: 0}
+  - blit: {instanceID: 0}
+  - blitCubemap: {instanceID: 0}
+  - buildProbabilityTables: {instanceID: 0}
+  - computeGgxIblSampleData: {instanceID: 0}
+  - GGXConvolve: {instanceID: 0}
+  - opaqueAtmosphericScattering: {instanceID: 0}
+  - hdriSky: {instanceID: 0}
+  - proceduralSky: {instanceID: 0}
+  - CloudSky: {instanceID: 0}
+  - skyboxCubemap: {instanceID: 0}
+  - preIntegratedFGD_GGXDisneyDiffuse: {instanceID: 0}
+  - preIntegratedFGD_CharlieClothLambert: {instanceID: 0}
+  - encodeBC6HCS: {instanceID: 0}
+  - cubeToPanoShader: {instanceID: 0}
+  - blitCubeTextureFace: {instanceID: 0}
+  - shadowClearShader: {instanceID: 0}
+  - shadowBlurMoments: {instanceID: 0}
+  - debugShadowMapShader: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene_Data/Logo.unity
+    guid: caae550857910d94eace8e4a207db61d
+  - enabled: 1
+    path: Assets/Scene_Data/Garage.unity
+    guid: 35830d00fae7f194bbe491a03f64f247
+  - enabled: 1
+    path: Assets/Scene_Data/Okutama.unity
+    guid: e79134a5c79f9974e8132ed7631edb6b
+  - enabled: 1
+    path: Assets/Scene_Data/RankingMonitor.unity
+    guid: 75ac1dba7430dc743acef12e1f512259
+  - enabled: 0
+    path: Assets/Scene_Data/GhostOkutama.unity
+    guid: 52a3b6e8b041eee44a70eef8bb5140f7
+  - enabled: 1
+    path: Assets/Scene_Data/PlayRanking.unity
+    guid: 57b9592fcf10db343861cdb4b0195fc1
+  m_configObjects: {}
